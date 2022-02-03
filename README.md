@@ -6,7 +6,7 @@ It currently doesn't allow students/staff to login.
 Solely, it's expected to be used on a single machine or online for managers only.
 
 ## Demo
-Visit  for a live demo. The demo is updated whenever the demo branch code is updated.
+Visit https://school-management-app.azurewebsites.net/ for a live demo. The demo is updated whenever the demo branch code is updated.
 ```bash
 username: admin
 password: admin123
